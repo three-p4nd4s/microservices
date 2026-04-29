@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gem "sinatra", "2.2.4"
+gem "puma", "5.6.5"
+gem "mongo", "2.19.0"
+gem "haml", "5.2.2"
+gem "bson", "4.15.0"
+gem "bcrypt"
+gem "rack", "2.2.8"
+gem "rack-protection", "2.2.4"
+gem "mustermann", "2.0.2"
+gem "tilt", "2.3.0"
